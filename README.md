@@ -4,4 +4,4 @@ testing buat aplikasi buku diari menggunakan bahasa klotin dan android studio te
 
 ## ini adalah hasil run dari aplikasi yang dibuat
 
-< img src="tamilan_sudah_run.png" />
+<img src="tampilan_sudah_run.png" alt="Tampilan Berhasil">
